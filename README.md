@@ -8,7 +8,7 @@
 
 - 👀 I’m a computer science student and working as a data engineer/bioinformatician on pipeline design in IEH Laboratories and Consulting Group.
 - 🌱 I’m currently learning JavaScript and database design.
-- 📫 Reach me by 3mingziwen@gmail.com
+- 📫 Reach me by 3mingziwen@gmail.com or [![Linkedin Badge](https://img.shields.io/badge/-zming-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ziwen-ming-076755146)
 
 
 
