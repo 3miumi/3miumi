@@ -6,7 +6,7 @@
   </a>
 </div> --->
 
----
+-----
 
 ### :woman_technologist: About Me :
 - 👀 I’m a computer science student and working as a data engineer/bioinformatician on pipeline design in IEH Laboratories and Consulting Group.
@@ -30,10 +30,19 @@
 </div>
 
 
-
-My GitHub Status
+-----
+### :fire: My GitHub Status
 
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3miumi&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+   
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=3miumi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />  
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=3miumi&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=3miumi&repo=convoychat" />
+</a>  
+   
 <!---
 3miumi/3miumi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
