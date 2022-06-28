@@ -33,12 +33,12 @@
 -----
 ### :fire: My GitHub Status
 
-  <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3miumi&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+ <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3miumi&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
    
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=3miumi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
- --->
+-->
  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" img height="180em"  width = "410em"  src="https://github-readme-stats.vercel.app/api?username=3miumi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
+  <img align="center" img height="180em"  width = "410em"  src="https://github-readme-stats.vercel.app/api?username=3miumi&theme=radical&hide_border=true" />
 </a>
  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" height="180em"  width="410em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3miumi&layout=compact&theme=radical&hide_border=true" />
