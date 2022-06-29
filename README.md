@@ -41,7 +41,7 @@
  <a href="https://github.com/3miumi?tab=repositories">
   <img align="left"  img width = "410em" src="https://github-readme-stats.vercel.app/api?username=3miumi&theme=radical&count_private=true&hide_border=true" />
 </a>
- <a href="https://github.com/anuraghazra/github-readme-stats">
+ <a>
   <img align="center"  img width = "350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3miumi&layout=compact&theme=radical&count_private=true&hide_border=true" />
 </a>
  
