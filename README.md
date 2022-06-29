@@ -35,13 +35,13 @@
 
  <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3miumi&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
    
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=3miumi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=3miumi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> img height="250em"  width = "400em" img height="180em"  width="410em"
 -->
  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" img height="180em"  width = "455em"  src="https://github-readme-stats.vercel.app/api?username=3miumi&theme=radical" />
+  <img align="left"  img width = "410em" src="https://github-readme-stats.vercel.app/api?username=3miumi&theme=radical" />
 </a>
  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="180em"  width="410em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3miumi&layout=compact&theme=radical" />
+  <img align="right"  img width = "350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3miumi&layout=compact&theme=radical" />
 </a>
  
 <!---
