@@ -10,7 +10,7 @@
 
 ### :woman_technologist: About Me :
 - 👀 I’m a computer science student and working as a data engineer/bioinformatician on pipeline design in IEH Laboratories and Consulting Group.
-- 🌱 I’m currently learning JavaScript and database design.
+- 🌱 I’m currently learning Object-oriented programming, and computer system.
 - 📫 Reach me by 3mingziwen@gmail.com or [![Linkedin Badge](https://img.shields.io/badge/-zming-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ziwen-ming-076755146)
 
 ### :hammer_and_wrench: Languages and Tools :
