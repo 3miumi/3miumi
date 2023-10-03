@@ -29,7 +29,7 @@
     
 </div>
 
-
+<!---
 -----
 ### :fire: My GitHub Status
 
@@ -37,7 +37,7 @@
    
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=3miumi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> img height="250em"  width = "400em" img height="180em"  width="410em"
 -->
-
+<!---
  <a href="https://github.com/3miumi?tab=repositories">
   <img align="left"  img width = "410em" src="https://github-readme-stats.vercel.app/api?username=3miumi&theme=radical&count_private=true&hide_border=true" />
 </a>
